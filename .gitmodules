@@ -7,3 +7,6 @@
 [submodule "zencoding-vim"]
 	path = zencoding-vim
 	url = git://github.com/mattn/zencoding-vim.git
+[submodule "taglist.vim"]
+	path = taglist.vim
+	url = git://github.com/AzizLight/taglist.vim.git
