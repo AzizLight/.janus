@@ -1,3 +1,6 @@
 [submodule "Vim-Tomorrow-Theme"]
 	path = Vim-Tomorrow-Theme
 	url = git://github.com/ChrisKempson/Vim-Tomorrow-Theme.git
+[submodule "TaskList.vim"]
+	path = TaskList.vim
+	url = git@github.com:AzizLight/TaskList.vim.git
