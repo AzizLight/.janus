@@ -4,3 +4,6 @@
 [submodule "TaskList.vim"]
 	path = TaskList.vim
 	url = git@github.com:AzizLight/TaskList.vim.git
+[submodule "zencoding-vim"]
+	path = zencoding-vim
+	url = git://github.com/mattn/zencoding-vim.git
