@@ -13,3 +13,6 @@
 [submodule "vim-powerline"]
 	path = vim-powerline
 	url = git://github.com/Lokaltog/vim-powerline.git
+[submodule "AutoClose"]
+	path = AutoClose
+	url = https://github.com/vim-scripts/AutoClose.git
