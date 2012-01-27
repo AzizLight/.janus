@@ -22,3 +22,6 @@
 [submodule "vim-indent-guides"]
 	path = vim-indent-guides
 	url = git://github.com/nathanaelkane/vim-indent-guides.git
+[submodule "snipmate-snippets/snippets"]
+	path = snipmate-snippets/snippets
+	url = git@github.com:AzizLight/snipmate-snippets.git
