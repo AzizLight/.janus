@@ -25,3 +25,6 @@
 [submodule "snipmate-snippets/snippets"]
 	path = snipmate-snippets/snippets
 	url = git@github.com:AzizLight/snipmate-snippets.git
+[submodule "BufOnly.vim"]
+	path = BufOnly.vim
+	url = git://github.com/vim-scripts/BufOnly.vim.git
