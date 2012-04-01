@@ -28,3 +28,6 @@
 [submodule "BufOnly.vim"]
 	path = BufOnly.vim
 	url = git://github.com/vim-scripts/BufOnly.vim.git
+[submodule "nginx.vim"]
+	path = nginx.vim
+	url = git://github.com/vim-scripts/nginx.vim.git
