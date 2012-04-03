@@ -34,3 +34,6 @@
 [submodule "vim-align"]
 	path = vim-align
 	url = git://github.com/tsaleh/vim-align.git
+[submodule "vim-less"]
+	path = vim-less
+	url = git://github.com/groenewege/vim-less.git
