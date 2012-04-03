@@ -31,3 +31,6 @@
 [submodule "nginx.vim"]
 	path = nginx.vim
 	url = git://github.com/vim-scripts/nginx.vim.git
+[submodule "vim-align"]
+	path = vim-align
+	url = git://github.com/tsaleh/vim-align.git
