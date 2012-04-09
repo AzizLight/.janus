@@ -37,3 +37,6 @@
 [submodule "vim-less"]
 	path = vim-less
 	url = git://github.com/groenewege/vim-less.git
+[submodule "snipmate.vim"]
+	path = snipmate.vim
+	url = git@github.com:AzizLight/snipmate.vim.git
