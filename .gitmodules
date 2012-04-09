@@ -22,9 +22,6 @@
 [submodule "vim-indent-guides"]
 	path = vim-indent-guides
 	url = git://github.com/nathanaelkane/vim-indent-guides.git
-[submodule "snipmate-snippets/snippets"]
-	path = snipmate-snippets/snippets
-	url = git@github.com:AzizLight/snipmate-snippets.git
 [submodule "BufOnly.vim"]
 	path = BufOnly.vim
 	url = git://github.com/vim-scripts/BufOnly.vim.git
@@ -37,6 +34,3 @@
 [submodule "vim-less"]
 	path = vim-less
 	url = git://github.com/groenewege/vim-less.git
-[submodule "snipmate.vim"]
-	path = snipmate.vim
-	url = git@github.com:AzizLight/snipmate.vim.git
