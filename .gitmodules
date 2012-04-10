@@ -1,6 +1,3 @@
-[submodule "Vim-Tomorrow-Theme"]
-	path = Vim-Tomorrow-Theme
-	url = git://github.com/ChrisKempson/Vim-Tomorrow-Theme.git
 [submodule "TaskList.vim"]
 	path = TaskList.vim
 	url = git@github.com:AzizLight/TaskList.vim.git
@@ -37,3 +34,6 @@
 [submodule "aziz-snippets/snippets"]
 	path = aziz-snippets/snippets
 	url = git@github.com:AzizLight/snipmate-snippets.git
+[submodule "vim-tomorrow-theme"]
+	path = vim-tomorrow-theme
+	url = git@github.com:AzizLight/vim-tomorrow-theme.git
