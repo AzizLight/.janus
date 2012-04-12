@@ -37,3 +37,6 @@
 [submodule "vim-tomorrow-theme"]
 	path = vim-tomorrow-theme
 	url = git@github.com:AzizLight/vim-tomorrow-theme.git
+[submodule "vim-vroom"]
+	path = vim-vroom
+	url = git://github.com/skalnik/vim-vroom.git
