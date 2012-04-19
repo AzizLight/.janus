@@ -40,3 +40,6 @@
 [submodule "vim-vroom"]
 	path = vim-vroom
 	url = git://github.com/skalnik/vim-vroom.git
+[submodule "solarized"]
+	path = solarized
+	url = git@github.com:AzizLight/solarized.git
